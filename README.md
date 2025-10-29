@@ -29,7 +29,7 @@ termux-setup-storage
 ```
 **3° Comando**
 ```
-cd /sdcard/Download && https://github.com/Tedzinho40/TED-BOT-V4.4-Alfa
+cd /sdcard/Download && git clone https://github.com/Tedzinho40/TED-BOT-V4.4-Alfa
 ```
 **4° Comando**
 ```
